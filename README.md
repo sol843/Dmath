@@ -17,7 +17,7 @@
 
 ### 2.2 Logical Formulas
 
-Let:
+propositions:
 - $p$: I study  
 - $q$: I will pass the course  
 - $r$: The professor accepts bribes  
